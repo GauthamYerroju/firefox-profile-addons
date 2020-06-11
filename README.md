@@ -2,10 +2,8 @@
 
 ## Instructions:
 
-1. Find Firefox profile folder. Type about:support into url bar, and click the "Open Folder" button next to "Profile Folder".
+Clone this repo and copy the appropriate folders into the Firefox profile folder.
 
-2. Clone this repo into the profile folder.
+How to find Firefox profile folder: type about:support into url bar, and click the "Open Folder" button next to "Profile Folder".
 
-3. Copy subfolders out into profile folder. TODO: Create scripts for major platforms to automatically do this.
-
-4. Restart Firefox.
+TODO: Create scripts for major platforms to automatically do this.
